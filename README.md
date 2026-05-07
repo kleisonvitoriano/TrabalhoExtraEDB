@@ -1,13 +1,17 @@
-# Exercícios - Eficiência de Algoritmos
+# Trabalho Extra - EDB
 
-Implementações em C dos exercícios da disciplina.
+Resolução dos exercícios sobre eficiência de algoritmos e complexidade.
 
-## Arquivos
+## Linguagem utilizada
 
-- polinomio_on2.c
-- horner_on.c
-- merge_sort_inversoes.c
+- C
 
-## Linguagem
+## Exercícios implementados
 
-C
+- Avaliação de polinômio O(n²)
+- Regra de Horner O(n)
+- Contagem de inversões com Merge Sort
+
+## Autor
+
+Kleison Vitoriano da Silva
